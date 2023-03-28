@@ -1,0 +1,15 @@
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\bin\Debug\net6.0\Question 3.exe
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\bin\Debug\net6.0\Question 3.deps.json
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\bin\Debug\net6.0\Question 3.runtimeconfig.json
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\bin\Debug\net6.0\Question 3.dll
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\bin\Debug\net6.0\Question 3.pdb
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\obj\Debug\net6.0\Question 3.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\obj\Debug\net6.0\Question 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\obj\Debug\net6.0\Question 3.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\obj\Debug\net6.0\Question 3.AssemblyInfo.cs
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\obj\Debug\net6.0\Question 3.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\obj\Debug\net6.0\Question 3.dll
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\obj\Debug\net6.0\refint\Question 3.dll
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\obj\Debug\net6.0\Question 3.pdb
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\obj\Debug\net6.0\Question 3.genruntimeconfig.cache
+C:\Users\MELTUser01\Documents\prac-05\Code\Question 3\obj\Debug\net6.0\ref\Question 3.dll
