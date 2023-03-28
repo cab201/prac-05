@@ -25,14 +25,17 @@
                 // Using StreamReader to read the whole content of a file
                 DisplayFileContent(path);
                 // Using StreamWriter to write to a file
-                using (StreamWriter writer = new StreamWriter(path, append: true))
+                using (StreamWriter writer = 
+                    new StreamWriter(path, append: true))
                 {
                     // This will add a new line
                     writer.WriteLine();
                     string input;
+                    // Write until the user inputs QUIT
                     do
                     {
-                        Console.WriteLine("What do you want to add to the file");
+                        Console.WriteLine
+                            ("What do you want to add to the file");
                         input = Console.ReadLine();
                         writer.WriteLine(input);
                     } while (input != "QUIT");
