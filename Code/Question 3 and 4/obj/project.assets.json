@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MELTUser01\\Documents\\prac-05\\Code\\Code\\Question 1.csproj",
-      "projectName": "Question 1",
-      "projectPath": "C:\\Users\\MELTUser01\\Documents\\prac-05\\Code\\Code\\Question 1.csproj",
+      "projectUniqueName": "C:\\Users\\MELTUser01\\Documents\\prac-05\\Code\\Question 3 and 4\\Question 3 and 4.csproj",
+      "projectName": "Question 3 and 4",
+      "projectPath": "C:\\Users\\MELTUser01\\Documents\\prac-05\\Code\\Question 3 and 4\\Question 3 and 4.csproj",
       "packagesPath": "C:\\Users\\MELTUser01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MELTUser01\\Documents\\prac-05\\Code\\Code\\obj\\",
+      "outputPath": "C:\\Users\\MELTUser01\\Documents\\prac-05\\Code\\Question 3 and 4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
