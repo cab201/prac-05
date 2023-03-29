@@ -4,13 +4,13 @@
     {
         static void Main(string[] args)
         {
-            string path = GetPath();
-            ReadFile(path);
+            string pathToFile = GetPath();
+            ReadFile(pathToFile);
 
             // Print to a file
-            //Console.WriteLine("Printing to a file...");
-            path = GetPath();
-            WriteFile(path);
+            Console.WriteLine("Printing to a file...");
+            pathToFile = GetPath();
+            WriteFile(pathToFile);
         }
 
         static string GetPath()
@@ -53,7 +53,8 @@
         {
             if (File.Exists(path))
             {
-                using (StreamWriter writer = new StreamWriter(path))
+                using (StreamWriter writer = 
+                    new StreamWriter(path, append: true))
                 {
                     writer.WriteLine(@"In fairy-tales, witches always wear silly black hats and black coats, 
 and they ride on broomsticks. 
